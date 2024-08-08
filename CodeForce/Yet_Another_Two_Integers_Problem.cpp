@@ -12,9 +12,10 @@ Input : The first line of the input contains one integer t(1≤t≤2⋅104) — 
 Output : For each test case, print the answer: the minimum number of moves required to obtain b from a.
 Example
 Input=
-6
+7
 5 5
 13 42
+13 44
 18 4
 1337 420
 123456789 1000000000
@@ -25,6 +26,7 @@ Output
 0
 3
 2
+3
 92
 87654322
 9150
