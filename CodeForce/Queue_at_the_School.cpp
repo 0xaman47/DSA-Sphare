@@ -37,7 +37,14 @@ GGGB
 
 /*
 Solution :
-in this question 
+in this question in school during break boy and girls want to go lunch in canteen. but boy fill awkward to stand front of girls. both are in single line
+there have n boy so school decide to organize it in a structure. so t is iteration how much time boy change his posation like n = 5 that means total 5 
+student in single line. t = 2 that means boy change his posation 2 time. and take string input is str.
+ex : 
+n = 5 t = 2
+str = BGGBG
+in this example first time boy change his sit 1 time = GBGGB. then secon time boy change again one time = GGBGB so GGBGB is answer of this question.
+
 */
 
 #include<bits/stdc++.h>
