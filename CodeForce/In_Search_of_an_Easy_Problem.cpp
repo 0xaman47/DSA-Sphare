@@ -29,7 +29,13 @@ In the second example the problem easy for the only person, so it doesn't have t
 */
 
 /*
-Solution
+Solution :
+in this question we have n people and we have some problem. easy problem denote with '0' and hard problem denote with '1'. if any one 
+person say this problem is hard then print hard if no one say this problem is hard then print easy.
+Ex : n = 4 (number of people)
+     0 0 1 1 -> Hard(atleast two people say this problem is hard)
+    n = 3
+     0 0 0 -> Easy(No one say this problem is hard) 
 */
 
 #include<bits/stdc++.h>
