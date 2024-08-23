@@ -1,5 +1,5 @@
 /*
-
+Question :
 You are given three integers x,y and n. Your task is to find the maximum integer k such that 0≤k≤n that kmodx=y, where mod is modulo 
 operation. Many programming languages use percent operator % to implement it.
 
@@ -40,6 +40,10 @@ Output
 
 Note : In the first test case of the example, the answer is 12339=7⋅1762+5 (thus, 12339mod7=5). It is obvious that there is no greater 
 integer not exceeding 12345 which has the remainder 5 modulo 7.
+*/
+
+/*
+Solution :
 */
 
 #include <bits/stdc++.h>
