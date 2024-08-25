@@ -31,7 +31,8 @@ In the second example nobody got a positive score.
 */
 
 /*
-Solution
+Solution :
+In this question find ith are greater than equal to kth element if it is possible then find iteration.
 */
 
 #include<bits/stdc++.h>
