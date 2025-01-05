@@ -38,7 +38,11 @@ For the third test case, any combination of chosen digits will have a sum equal 
 */
 
 /*
-Solution
+Solution : In this question take three value as a input then check if we add any two value it is always greater than equal to 10.
+        Ex : a = 8, b = 2, c = 1;
+        Ans = (a + b >= 10 || a + c >= 10 || b + c >= 10)
+            = 8 + 2 = 10
+        if value got greater than equal to 10 then print YES else print NO
 */
 
 #include<bits/stdc++.h>
